@@ -8,10 +8,9 @@ The goal was to create a clear, interpretable view of what each convolutional la
 
 
 ## Project Display
+<img width="605" height="631" alt="image" src="https://github.com/user-attachments/assets/a108fcaa-5799-4704-b982-469aace02360" />
 
 
-Example placeholder:  
-`![Filter Visualization Example](images/filter_visualization.png)`
 
 
 
