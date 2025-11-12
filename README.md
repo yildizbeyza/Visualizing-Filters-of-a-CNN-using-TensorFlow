@@ -8,11 +8,24 @@ The goal was to create a clear, interpretable view of what each convolutional la
 
 
 ## Project Display
-<img width="605" height="631" alt="image" src="https://github.com/user-attachments/assets/a108fcaa-5799-4704-b982-469aace02360" />
 
+Model: vgg16 
 
+<img width="565" height="598" alt="image" src="https://github.com/user-attachments/assets/6c07a909-d354-42d3-8258-02dab93a591c" />
 
+Layer Outputs
 
+<img width="555" height="157" alt="image" src="https://github.com/user-attachments/assets/a5e7aef3-c8dd-4685-894c-4f49e5bf3071" />
+
+Image Visualization
+
+<img width="324" height="342" alt="image" src="https://github.com/user-attachments/assets/3caa7965-b0ac-4f4a-b722-8a28a069d23e" />
+
+Some Final Outputs
+You can find the rest of the results in the accompanying .ipynb file in this repository.
+
+<img width="330" height="673" alt="image" src="https://github.com/user-attachments/assets/4dcb9df0-56fa-478e-b61c-dc0edd7213fa" />
+<img width="319" height="689" alt="image" src="https://github.com/user-attachments/assets/1f55811d-c9fb-4a86-be4f-8f36d7ab388c" />
 
 ## Methodology
 1. **Model Setup:**  
